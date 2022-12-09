@@ -121,9 +121,9 @@ body {
   grid-template-columns: repeat(4, 1fr);
 }
 
-.grid--5-cols {
+/* .grid--5-cols {
   grid-template-columns: repeat(5, 1fr);
-}
+} */
 
 .grid--center-v {
   align-items: center;
@@ -164,6 +164,7 @@ body {
   margin-bottom: 1.6rem;
   letter-spacing: 0.75px;
 }
+
 .btn,
 .btn:link,
 .btn:visited {
